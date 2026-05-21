@@ -1,0 +1,6 @@
+{
+  "name": "Transcriptor IA",
+  "description": "Premium real-time speech and files transcriber, 100% local for English and Spanish, with AI intelligence powered by Gemini and PDF exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
